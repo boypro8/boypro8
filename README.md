@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [Sandia](https://jack9988dev.itch.io/sandia)
 
+<iframe frameborder="0" src="https://itch.io/embed-upload/3455312?color=333333" allowfullscreen="" width="500" height="320"><a href="https://jack9988dev.itch.io/sandia">Play Sandia on itch.io</a></iframe>
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
