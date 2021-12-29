@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="midle" src="https://img.itch.zone/aW1nLzYxNTk1NTQucG5n/original/iOQOV4.png"/>
+<img align="midle" src="https://repository-images.githubusercontent.com/442866447/8ffebd4f-015b-4057-a42f-42a10d94703a"/>
 
-- 🔭 I’m currently working on [Sandia](https://jack9988dev.itch.io/sandia)
+- 🔭 I’m currently working on [My letter LOL](myletter-lol.cf)
 
 
 ### Languages and Tools:
